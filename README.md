@@ -276,6 +276,8 @@ AI-powered trading bot with strategy marketplace.
 
 ## Additional Projects
 
+**[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)**: Local payment runtime with stdio MCP for x402 offer inspection, bounded preparation, operation status and receipt recovery; Apple Silicon macOS and Node 24.
+
 **MoonPay + Ledger**: Fiat on/off-ramp with hardware wallet integration
 
 **ERC-4337**: Account abstraction for gasless transactions and social recovery
